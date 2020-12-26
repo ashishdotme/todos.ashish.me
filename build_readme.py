@@ -34,8 +34,7 @@ def replace_chunk_no_space(content, marker, chunk, inline=False):
 
 
 def fetch_todos():
-    url = "https://api.prod.ashish.me/todos".format(
-        TOKEN)
+    url = "https://api.prod.ashish.me/todos"
     todos = httpx.get(url).json()
 
     tasks = []
@@ -48,8 +47,7 @@ def fetch_todos():
 
 
 def fetch_completed():
-    url = "https://api.prod.ashish.me/todos".format(
-        TOKEN)
+    url = "https://api.prod.ashish.me/todos"
     todos = httpx.get(url).json()
 
     tasks = []
@@ -61,6 +59,17 @@ def fetch_completed():
     return tasks[::-1]
 
 
+def fetch_stats():
+    url = "https://api.prod.ashish.me/todos/stats"
+    response = httpx.get(url).json()
+    stats = {}
+
+    for period, stat in response["short"].items():
+        stats[period] = stat
+
+    return stats
+
+
 if __name__ == "__main__":
     readme = root / "README.md"
     readme_contents = readme.open().read()
@@ -68,7 +77,7 @@ if __name__ == "__main__":
     todos = fetch_todos()
     todos_md = "\n".join(
         [
-            "- {title}".format(
+            "◻️ {title}".format(
                 title=todo["content"].strip().capitalize(),
             )
             for todo in todos
@@ -79,11 +88,11 @@ if __name__ == "__main__":
     completed = sorted(
         fetch_completed(),
         key=lambda x: datetime.fromisoformat(x["completedDate"].split("T")[
-                                            0]), reverse=True
+            0]), reverse=True
     )[:15]
     completed_md = "\n".join(
         [
-            "* {title} - *{date}*".format(
+            "✅ {title} - **_{date}_**".format(
                 title=todo["content"].strip().capitalize(),
                 date=datetime.fromisoformat(todo["completedDate"].split("T")[
                                             0]).strftime("%b %d %Y")
@@ -92,4 +101,19 @@ if __name__ == "__main__":
         ]
     )
     rewritten = replace_chunk(rewritten, "completed", completed_md)
+
+    stats = fetch_stats()
+    week_md = "* __Week__ - {stat}".format(
+        stat=stats["week"][0],
+    )
+    rewritten = replace_chunk(rewritten, "week", week_md)
+    month_md = "* __Month__ - {stat}".format(
+        stat=stats["month"][0],
+    )
+    rewritten = replace_chunk(rewritten, "month", month_md)
+    year_md = "* __Year__ - {stat}".format(
+        stat=stats["year"][0],
+    )
+    rewritten = replace_chunk(rewritten, "year", year_md)
+
     readme.open("w").write(rewritten)

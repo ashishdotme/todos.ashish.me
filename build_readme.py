@@ -42,9 +42,10 @@ def fetch_todos():
 
     for todo in todos:
         if not todo['completed']:
-          tasks.append(todo)
+            tasks.append(todo)
 
     return tasks[::-1]
+
 
 def fetch_completed():
     url = "https://api.prod.ashish.me/todos".format(
@@ -75,12 +76,17 @@ if __name__ == "__main__":
     )
     rewritten = replace_chunk(readme_contents, "todos", todos_md)
 
-    completed = fetch_completed()[:15]
+    completed = sorted(
+        fetch_completed(),
+        key=lambda x: datetime.fromisoformat(x["completedDate"].split("T")[
+                                            0]), reverse=True
+    )[:15]
     completed_md = "\n".join(
         [
             "* {title} - *{date}*".format(
                 title=todo["content"].strip().capitalize(),
-                date=datetime.fromisoformat(todo["completedDate"].split("T")[0]).strftime("%b %d %Y")
+                date=datetime.fromisoformat(todo["completedDate"].split("T")[
+                                            0]).strftime("%b %d %Y")
             )
             for todo in completed
         ]

@@ -6,6 +6,10 @@
   box-shadow: none;
 }
 
+.hero-body {
+  padding: 1rem;
+}
+
 .panel-block {
   border: 1px solid #ededed !important;
 }
@@ -37,7 +41,7 @@
 .column {
   & .box {
     border-radius: 1rem;
-    padding: 2rem 2rem 2rem 2rem;
+    padding: 1rem 1rem 1rem 1rem;
     box-shadow: 8px 14px 38px rgba(39, 44, 49, .3);
   }
 

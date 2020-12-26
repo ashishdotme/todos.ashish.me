@@ -3,9 +3,11 @@ import { useTodos } from '../../hooks/useTodos';
 import TodosContext from '../../common/todosContext';
 import MenuItem from './MenuItem';
 
-interface Props {}
+interface Props {
+    setCurrentPage: (pageNumber: number) => void;
+}
 
-const Menu: React.FC<Props> = () => {
+const Menu: React.FC<Props> = (props: Props) => {
     const { currentMenu, dispatch } = useContext(TodosContext);
     let { todos } = useTodos();
     const incompleteTodos = todos?.filter((todo) => !todo.completed);
@@ -16,25 +18,27 @@ const Menu: React.FC<Props> = () => {
                 <MenuItem
                     text="Incomplete"
                     count={(incompleteTodos || []).length}
-                    className={currentMenu === 'INCOMPLETE' ? '' : 'is-active'}
-                    onClick={() =>
+                    className={currentMenu === 'INCOMPLETE' ? 'is-active' : ''}
+                    onClick={() => {
                         dispatch({
                             type: 'CHANGE_CURRENT_MENU',
                             payload: 'INCOMPLETE',
-                        })
-                    }
+                        });
+                        props.setCurrentPage(0);
+                    }}
                 />
 
                 <MenuItem
                     text="Completed"
                     count={(completedTodos || []).length}
-                    className={currentMenu === 'COMPLETED' ? '' : 'is-active'}
-                    onClick={() =>
+                    className={currentMenu === 'COMPLETED' ? 'is-active' : ''}
+                    onClick={() => {
                         dispatch({
                             type: 'CHANGE_CURRENT_MENU',
                             payload: 'COMPLETED',
-                        })
-                    }
+                        });
+                        props.setCurrentPage(0);
+                    }}
                 />
             </ul>
         </div>

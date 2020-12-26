@@ -10,6 +10,10 @@
   border: 1px solid #ededed !important;
 }
 
+.list-container {
+  min-height: 450px;
+}
+
 .todos-section {
   background: #e2eaf8;  /* fallback for old browsers */
   // background: -webkit-linear-gradient(to right, #CFDEF3, #E0EAFC);  /* Chrome 10-25, Safari 5.1-6 */

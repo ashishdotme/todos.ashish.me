@@ -7,7 +7,7 @@ const App = () => {
     return (
         <div>
             <Navbar className="bg-blue" />
-            <section className="todos-section hero is-fullheight">
+            <section className="has-background-link-light hero is-fullheight">
                 <div className="hero-body">
                     <div className="container">
                         <div className="columns">

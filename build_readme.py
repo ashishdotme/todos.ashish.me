@@ -6,8 +6,6 @@ import os
 from datetime import datetime
 
 root = pathlib.Path(__file__).parent.resolve()
-TOKEN = os.environ['TODOIST_TOKEN']
-
 
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(

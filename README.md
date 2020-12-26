@@ -30,15 +30,25 @@
 
 <!-- todos starts -->
 ◻️ Backup photo
+
 ◻️ Update readme template
+
 ◻️ Add github action for todos repo
+
 ◻️ Update readmes with social links
+
 ◻️ Fix laptop bag
+
 ◻️ Setup alfred workflows
+
 ◻️ Solve leetcode 606
+
 ◻️ Read “the old man and the sea”
+
 ◻️ Create topic wise list of important leetcode questions
+
 ◻️ Oreilly reactive spring boot chapter 5
+
 ◻️ Create a cli for common tasks
 <!-- todos ends -->
 
@@ -46,18 +56,32 @@
 
 <!-- completed starts -->
 ✅ Clean up personal bot - **_Dec 26 2020_**
+
 ✅ Get clothes from laundry - **_Dec 26 2020_**
+
 ✅ Order eggs - **_Dec 26 2020_**
+
 ✅ Rewrite the process api using next.js - **_Dec 26 2020_**
+
 ✅ Add defer option for tasks - **_Dec 26 2020_**
+
 ✅ Pay american express bill for term insurance premium fee - **_Dec 26 2020_**
+
 ✅ Generate index of all the courses i have done - **_Dec 26 2020_**
+
 ✅ Throw trash - **_Dec 26 2020_**
+
 ✅ Order chaipatti, ginger, butter - **_Dec 18 2020_**
+
 ✅ Get water can - **_Dec 18 2020_**
+
 ✅ Do laundry - **_Dec 13 2020_**
+
 ✅ Print aadhar card - **_Dec 13 2020_**
+
 ✅ Get esim - **_Dec 13 2020_**
+
 ✅ Solve leetcode 653 - **_Dec 11 2020_**
+
 ✅ Buy plate, cup, strainer - **_Dec 07 2020_**
 <!-- completed ends -->

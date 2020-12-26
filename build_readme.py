@@ -89,7 +89,7 @@ if __name__ == "__main__":
         fetch_completed(),
         key=lambda x: datetime.fromisoformat(x["completedDate"].split("T")[
             0]), reverse=True
-    )[:15]
+    )[:20]
     completed_md = "<br>".join(
         [
             "✅  &nbsp; {title} - **_{date}_**".format(
@@ -103,15 +103,15 @@ if __name__ == "__main__":
     rewritten = replace_chunk(rewritten, "completed", completed_md)
 
     stats = fetch_stats()
-    week_md = "* __Week__ - {stat}".format(
+    week_md = "__Week__ - {stat}".format(
         stat=stats["week"][0],
     )
     rewritten = replace_chunk(rewritten, "week", week_md)
-    month_md = "* __Month__ - {stat}".format(
+    month_md = "__Month__ - {stat}".format(
         stat=stats["month"][0],
     )
     rewritten = replace_chunk(rewritten, "month", month_md)
-    year_md = "* __Year__ - {stat}".format(
+    year_md = "__Year__ - {stat}".format(
         stat=stats["year"][0],
     )
     rewritten = replace_chunk(rewritten, "year", year_md)

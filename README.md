@@ -17,12 +17,13 @@
 ## Stats
 
 <!-- week starts -->
-* __Week__ - 8 tasks completed (28-December - 04-January)<!-- week ends -->
+__Week__ - 8 tasks completed (28-December - 04-January)
+<!-- week ends -->
 <!-- month starts -->
-* __Month__ - 17 tasks completed (Dec 2020)
+__Month__ - 17 tasks completed (Dec 2020)
 <!-- month ends -->
 <!-- year starts -->
-* __Year__ - 74 tasks completed (Year 2020)
+__Year__ - 74 tasks completed (Year 2020)
 <!-- year ends -->
 
 ## Todos
@@ -31,8 +32,8 @@
 ◻️  &nbsp; Backup photo<br>◻️  &nbsp; Update readme template<br>◻️  &nbsp; Add github action for todos repo<br>◻️  &nbsp; Update readmes with social links<br>◻️  &nbsp; Fix laptop bag<br>◻️  &nbsp; Setup alfred workflows<br>◻️  &nbsp; Solve leetcode 606<br>◻️  &nbsp; Read “the old man and the sea”<br>◻️  &nbsp; Create topic wise list of important leetcode questions<br>◻️  &nbsp; Oreilly reactive spring boot chapter 5<br>◻️  &nbsp; Create a cli for common tasks
 <!-- todos ends -->
 
-## Last 15 completed todos
+## Last 20 completed todos
 
 <!-- completed starts -->
-✅  &nbsp; Clean up personal bot - **_Dec 26 2020_**<br>✅  &nbsp; Get clothes from laundry - **_Dec 26 2020_**<br>✅  &nbsp; Order eggs - **_Dec 26 2020_**<br>✅  &nbsp; Rewrite the process api using next.js - **_Dec 26 2020_**<br>✅  &nbsp; Add defer option for tasks - **_Dec 26 2020_**<br>✅  &nbsp; Pay american express bill for term insurance premium fee - **_Dec 26 2020_**<br>✅  &nbsp; Generate index of all the courses i have done - **_Dec 26 2020_**<br>✅  &nbsp; Throw trash - **_Dec 26 2020_**<br>✅  &nbsp; Order chaipatti, ginger, butter - **_Dec 18 2020_**<br>✅  &nbsp; Get water can - **_Dec 18 2020_**<br>✅  &nbsp; Do laundry - **_Dec 13 2020_**<br>✅  &nbsp; Print aadhar card - **_Dec 13 2020_**<br>✅  &nbsp; Get esim - **_Dec 13 2020_**<br>✅  &nbsp; Solve leetcode 653 - **_Dec 11 2020_**<br>✅  &nbsp; Buy plate, cup, strainer - **_Dec 07 2020_**
+✅  &nbsp; Clean up personal bot - **_Dec 26 2020_**<br>✅  &nbsp; Get clothes from laundry - **_Dec 26 2020_**<br>✅  &nbsp; Order eggs - **_Dec 26 2020_**<br>✅  &nbsp; Rewrite the process api using next.js - **_Dec 26 2020_**<br>✅  &nbsp; Add defer option for tasks - **_Dec 26 2020_**<br>✅  &nbsp; Pay american express bill for term insurance premium fee - **_Dec 26 2020_**<br>✅  &nbsp; Generate index of all the courses i have done - **_Dec 26 2020_**<br>✅  &nbsp; Throw trash - **_Dec 26 2020_**<br>✅  &nbsp; Order chaipatti, ginger, butter - **_Dec 18 2020_**<br>✅  &nbsp; Get water can - **_Dec 18 2020_**<br>✅  &nbsp; Do laundry - **_Dec 13 2020_**<br>✅  &nbsp; Print aadhar card - **_Dec 13 2020_**<br>✅  &nbsp; Get esim - **_Dec 13 2020_**<br>✅  &nbsp; Solve leetcode 653 - **_Dec 11 2020_**<br>✅  &nbsp; Buy plate, cup, strainer - **_Dec 07 2020_**<br>✅  &nbsp; Order from bigbasket - **_Dec 06 2020_**<br>✅  &nbsp; Use hooks for notes app - **_Dec 06 2020_**<br>✅  &nbsp; Spring boot chapter 5 - **_Oct 25 2020_**<br>✅  &nbsp; Spring boot chapter 3 - **_Oct 25 2020_**<br>✅  &nbsp; Spring boot chapter 4 - **_Oct 24 2020_**
 <!-- completed ends -->

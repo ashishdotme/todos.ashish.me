@@ -3,6 +3,8 @@ import json
 import pathlib
 import re
 import os
+from pytz import timezone
+import dateutil.parser as dt
 from datetime import datetime
 
 root = pathlib.Path(__file__).parent.resolve()
@@ -92,8 +94,7 @@ if __name__ == "__main__":
         [
             "✅  &nbsp; {title} - **_{date}_**".format(
                 title=todo["content"].strip().capitalize(),
-                date=datetime.fromisoformat(todo["completedDate"].split("T")[
-                                            0]).strftime("%b %d %Y")
+                date=dt.parse(todo["completedDate"]).astimezone(timezone('Asia/Kolkata')).strftime("%b %d %Y")
             )
             for todo in completed
         ]

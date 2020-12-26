@@ -103,17 +103,17 @@ if __name__ == "__main__":
     rewritten = replace_chunk(rewritten, "completed", completed_md)
 
     stats = fetch_stats()
-    week_md = "__Week__ - {stat}".format(
+    week_md = "<b>Week</b> - {stat}<br>".format(
         stat=stats["week"][0],
     )
-    rewritten = replace_chunk(rewritten, "week", week_md)
-    month_md = "__Month__ - {stat}".format(
+    rewritten = replace_chunk(rewritten, "week", week_md, True)
+    month_md = "<b>Month</b> - {stat}<br>".format(
         stat=stats["month"][0],
     )
-    rewritten = replace_chunk(rewritten, "month", month_md)
-    year_md = "__Year__ - {stat}".format(
+    rewritten = replace_chunk(rewritten, "month", month_md, True)
+    year_md = "<b>Year</b> - {stat}".format(
         stat=stats["year"][0],
     )
-    rewritten = replace_chunk(rewritten, "year", year_md)
+    rewritten = replace_chunk(rewritten, "year", year_md, True)
 
     readme.open("w").write(rewritten)

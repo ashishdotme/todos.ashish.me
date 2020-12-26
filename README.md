@@ -10,9 +10,9 @@
 
 <p align="center">📦 about project </p>
 
-<p align="center">
+<div style='margin:0 auto;width:80%;'>
   <img src="./assets/todos.png" alt="drawing"/>
-</p>
+</div>
 
 ## Todos
 

@@ -17,8 +17,7 @@
 ## Stats
 
 <!-- week starts -->
-* __Week__ - 8 tasks completed (28-December - 04-January)
-<!-- week ends -->
+* __Week__ - 8 tasks completed (28-December - 04-January)<!-- week ends -->
 <!-- month starts -->
 * __Month__ - 17 tasks completed (Dec 2020)
 <!-- month ends -->
@@ -29,59 +28,11 @@
 ## Todos
 
 <!-- todos starts -->
-◻️ Backup photo
-
-◻️ Update readme template
-
-◻️ Add github action for todos repo
-
-◻️ Update readmes with social links
-
-◻️ Fix laptop bag
-
-◻️ Setup alfred workflows
-
-◻️ Solve leetcode 606
-
-◻️ Read “the old man and the sea”
-
-◻️ Create topic wise list of important leetcode questions
-
-◻️ Oreilly reactive spring boot chapter 5
-
-◻️ Create a cli for common tasks
+◻️  &nbsp; Backup photo<br>◻️  &nbsp; Update readme template<br>◻️  &nbsp; Add github action for todos repo<br>◻️  &nbsp; Update readmes with social links<br>◻️  &nbsp; Fix laptop bag<br>◻️  &nbsp; Setup alfred workflows<br>◻️  &nbsp; Solve leetcode 606<br>◻️  &nbsp; Read “the old man and the sea”<br>◻️  &nbsp; Create topic wise list of important leetcode questions<br>◻️  &nbsp; Oreilly reactive spring boot chapter 5<br>◻️  &nbsp; Create a cli for common tasks
 <!-- todos ends -->
 
 ## Last 15 completed todos
 
 <!-- completed starts -->
-✅ Clean up personal bot - **_Dec 26 2020_**
-
-✅ Get clothes from laundry - **_Dec 26 2020_**
-
-✅ Order eggs - **_Dec 26 2020_**
-
-✅ Rewrite the process api using next.js - **_Dec 26 2020_**
-
-✅ Add defer option for tasks - **_Dec 26 2020_**
-
-✅ Pay american express bill for term insurance premium fee - **_Dec 26 2020_**
-
-✅ Generate index of all the courses i have done - **_Dec 26 2020_**
-
-✅ Throw trash - **_Dec 26 2020_**
-
-✅ Order chaipatti, ginger, butter - **_Dec 18 2020_**
-
-✅ Get water can - **_Dec 18 2020_**
-
-✅ Do laundry - **_Dec 13 2020_**
-
-✅ Print aadhar card - **_Dec 13 2020_**
-
-✅ Get esim - **_Dec 13 2020_**
-
-✅ Solve leetcode 653 - **_Dec 11 2020_**
-
-✅ Buy plate, cup, strainer - **_Dec 07 2020_**
+✅  &nbsp; Clean up personal bot - **_Dec 26 2020_**<br>✅  &nbsp; Get clothes from laundry - **_Dec 26 2020_**<br>✅  &nbsp; Order eggs - **_Dec 26 2020_**<br>✅  &nbsp; Rewrite the process api using next.js - **_Dec 26 2020_**<br>✅  &nbsp; Add defer option for tasks - **_Dec 26 2020_**<br>✅  &nbsp; Pay american express bill for term insurance premium fee - **_Dec 26 2020_**<br>✅  &nbsp; Generate index of all the courses i have done - **_Dec 26 2020_**<br>✅  &nbsp; Throw trash - **_Dec 26 2020_**<br>✅  &nbsp; Order chaipatti, ginger, butter - **_Dec 18 2020_**<br>✅  &nbsp; Get water can - **_Dec 18 2020_**<br>✅  &nbsp; Do laundry - **_Dec 13 2020_**<br>✅  &nbsp; Print aadhar card - **_Dec 13 2020_**<br>✅  &nbsp; Get esim - **_Dec 13 2020_**<br>✅  &nbsp; Solve leetcode 653 - **_Dec 11 2020_**<br>✅  &nbsp; Buy plate, cup, strainer - **_Dec 07 2020_**
 <!-- completed ends -->

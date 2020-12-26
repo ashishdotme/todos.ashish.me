@@ -75,9 +75,9 @@ if __name__ == "__main__":
     readme_contents = readme.open().read()
 
     todos = fetch_todos()
-    todos_md = "\n\n".join(
+    todos_md = "<br>".join(
         [
-            "◻️ {title}".format(
+            "◻️  &nbsp; {title}".format(
                 title=todo["content"].strip().capitalize(),
             )
             for todo in todos
@@ -90,9 +90,9 @@ if __name__ == "__main__":
         key=lambda x: datetime.fromisoformat(x["completedDate"].split("T")[
             0]), reverse=True
     )[:15]
-    completed_md = "\n\n".join(
+    completed_md = "<br>".join(
         [
-            "✅ {title} - **_{date}_**".format(
+            "✅  &nbsp; {title} - **_{date}_**".format(
                 title=todo["content"].strip().capitalize(),
                 date=datetime.fromisoformat(todo["completedDate"].split("T")[
                                             0]).strftime("%b %d %Y")

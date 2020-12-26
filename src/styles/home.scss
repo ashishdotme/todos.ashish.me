@@ -2,6 +2,14 @@
   background: #885ac7 !important;
 }
 
+.panel {
+  box-shadow: none;
+}
+
+.panel-block {
+  border: 1px solid #ededed !important;
+}
+
 .todos-section {
   background: #e2eaf8;  /* fallback for old browsers */
   // background: -webkit-linear-gradient(to right, #CFDEF3, #E0EAFC);  /* Chrome 10-25, Safari 5.1-6 */

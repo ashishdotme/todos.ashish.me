@@ -39,7 +39,7 @@ const List: React.FC<Props> = (props: Props) => {
     return (
         <div className="container list-container">
             <div className="panel is-primary">
-                <ul>{currentPageData}</ul>
+                <ul>{currentMenu === 'COMPLETED' ? currentPageData : todos}</ul>
             </div>
             {todos && todos.length > 10 && currentMenu === 'COMPLETED' && (
                 <ReactPaginate

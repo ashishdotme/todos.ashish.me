@@ -23,7 +23,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️  &nbsp; Backup photo<br>◻️  &nbsp; Update readme template<br>◻️  &nbsp; Update readmes with social links<br>◻️  &nbsp; Fix laptop bag<br>◻️  &nbsp; Setup alfred workflows<br>◻️  &nbsp; Solve leetcode 606<br>◻️  &nbsp; Read “the old man and the sea”<br>◻️  &nbsp; Create topic wise list of important leetcode questions<br>◻️  &nbsp; Oreilly reactive spring boot chapter 5<br>◻️  &nbsp; Create a cli for common tasks
+◻️  &nbsp; Complete udemy mysql section 12<br>◻️  &nbsp; Complete udemy mysql section 13<br>◻️  &nbsp; Complete udemy mysql section 12<br>◻️  &nbsp; Backup photo<br>◻️  &nbsp; Update readme template<br>◻️  &nbsp; Update readmes with social links<br>◻️  &nbsp; Fix laptop bag<br>◻️  &nbsp; Setup alfred workflows<br>◻️  &nbsp; Solve leetcode 606<br>◻️  &nbsp; Read “the old man and the sea”<br>◻️  &nbsp; Create topic wise list of important leetcode questions<br>◻️  &nbsp; Oreilly reactive spring boot chapter 5<br>◻️  &nbsp; Create a cli for common tasks
 <!-- todos ends -->
 
 ## Last 20 completed todos

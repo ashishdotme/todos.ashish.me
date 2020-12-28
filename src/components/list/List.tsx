@@ -28,18 +28,29 @@ const List: React.FC<Props> = (props: Props) => {
                   );
     const PER_PAGE = 10;
     const offset = props.currentPage * PER_PAGE;
-    const currentPageData = (todos || [])
+    const completedTodosElements = (todos || [])
         .slice(offset, offset + PER_PAGE)
         .map((todo: TodoResponse, i: number) => (
             <label className="panel-block">
                 <TodoItem key={i} todo={todo} />
             </label>
         ));
+    const incompleteTodosElements = (todos || []).map(
+        (todo: TodoResponse, i: number) => (
+            <label className="panel-block">
+                <TodoItem key={i} todo={todo} />
+            </label>
+        ),
+    );
     const pageCount = Math.ceil((todos || []).length / PER_PAGE);
     return (
         <div className="container list-container">
             <div className="panel is-primary">
-                <ul>{currentMenu === 'COMPLETED' ? currentPageData : todos}</ul>
+                <ul>
+                    {currentMenu === 'COMPLETED'
+                        ? completedTodosElements
+                        : incompleteTodosElements}
+                </ul>
             </div>
             {todos && todos.length > 10 && currentMenu === 'COMPLETED' && (
                 <ReactPaginate

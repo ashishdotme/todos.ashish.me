@@ -16,7 +16,7 @@
 
 ## Stats
 
-<!-- week starts --><b>Week</b> - 9 tasks completed (28-December - 04-January)<br><!-- week ends -->
+<!-- week starts --><b>Week</b> - 9 tasks completed (21-December - 27-December)<br><!-- week ends -->
 <!-- month starts --><b>Month</b> - 18 tasks completed (Dec 2020)<br><!-- month ends -->
 <!-- year starts --><b>Year</b> - 75 tasks completed (Year 2020)<!-- year ends -->
 

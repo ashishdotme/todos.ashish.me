@@ -17,7 +17,7 @@
 ## Stats
 
 <!-- week starts --><b>Week</b> - 4 tasks completed (28-December - 03-January)<br><!-- week ends -->
-<!-- month starts --><b>Month</b> - 22 tasks completed (Dec 2020)<br><!-- month ends -->
+<!-- month starts --><b>Month</b> - 22 tasks completed (Dec 2021)<br><!-- month ends -->
 <!-- year starts --><b>Year</b> - 79 tasks completed (Year 2020)<!-- year ends -->
 
 ## Todos

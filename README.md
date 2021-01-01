@@ -23,7 +23,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️  &nbsp; Pay bill, order electric toothbrush, weight machine, renew wifi<br>◻️  &nbsp; Backup photo<br>◻️  &nbsp; Update readmes with social links<br>◻️  &nbsp; Fix laptop bag<br>◻️  &nbsp; Setup alfred workflows<br>◻️  &nbsp; Solve leetcode 606<br>◻️  &nbsp; Read “the old man and the sea”<br>◻️  &nbsp; Create a cli for common tasks
+◻️  &nbsp; Solve leetcode 11<br>◻️  &nbsp; Pay bill, order electric toothbrush, weight machine, renew wifi<br>◻️  &nbsp; Backup photo<br>◻️  &nbsp; Update readmes with social links<br>◻️  &nbsp; Fix laptop bag<br>◻️  &nbsp; Setup alfred workflows<br>◻️  &nbsp; Solve leetcode 606<br>◻️  &nbsp; Read “the old man and the sea”<br>◻️  &nbsp; Create a cli for common tasks
 <!-- todos ends -->
 
 ## Last 20 completed todos

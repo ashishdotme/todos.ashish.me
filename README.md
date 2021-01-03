@@ -16,7 +16,7 @@
 
 ## Stats
 
-<!-- week starts --><b>Week</b> - 2 tasks completed (28-December - 03-January)<br><!-- week ends -->
+<!-- week starts --><b>Week</b> - 2 tasks completed (03-January - 09-January)<br><!-- week ends -->
 <!-- month starts --><b>Month</b> - 2 tasks completed (Jan 2021)<br><!-- month ends -->
 <!-- year starts --><b>Year</b> - 2 tasks completed (Year 2021)<!-- year ends -->
 

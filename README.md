@@ -23,7 +23,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️  &nbsp; Pay electricity bill<br>◻️  &nbsp; Do xunit course<br>◻️  &nbsp; Backup photo<br>◻️  &nbsp; Update readmes with social links<br>◻️  &nbsp; Fix laptop bag<br>◻️  &nbsp; Setup alfred workflows<br>◻️  &nbsp; Solve leetcode 606<br>◻️  &nbsp; Read “the old man and the sea”<br>◻️  &nbsp; Create a cli for common tasks
+◻️  &nbsp; Change navbar color for notes repo<br>◻️  &nbsp; Format date in notes repo<br>◻️  &nbsp; Update code website<br>◻️  &nbsp; Update til website<br>◻️  &nbsp; Pay electricity bill<br>◻️  &nbsp; Do xunit course<br>◻️  &nbsp; Backup photo<br>◻️  &nbsp; Update readmes with social links<br>◻️  &nbsp; Fix laptop bag<br>◻️  &nbsp; Setup alfred workflows<br>◻️  &nbsp; Solve leetcode 606<br>◻️  &nbsp; Read “the old man and the sea”<br>◻️  &nbsp; Create a cli for common tasks
 <!-- todos ends -->
 
 ## Last 20 completed todos

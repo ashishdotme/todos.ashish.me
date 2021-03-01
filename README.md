@@ -16,18 +16,18 @@
 
 ## Stats
 
-<!-- week starts --><b>Week</b> - 1 tasks completed (01-March - 07-March)<br><!-- week ends -->
-<!-- month starts --><b>Month</b> - 1 tasks completed (Mar 2021)<br><!-- month ends -->
-<!-- year starts --><b>Year</b> - 4 tasks completed (Year 2021)<!-- year ends -->
+<!-- week starts --><b>Week</b> - 3 tasks completed (01-March - 07-March)<br><!-- week ends -->
+<!-- month starts --><b>Month</b> - 3 tasks completed (Mar 2021)<br><!-- month ends -->
+<!-- year starts --><b>Year</b> - 6 tasks completed (Year 2021)<!-- year ends -->
 
 ## Todos
 
 <!-- todos starts -->
-◻️  &nbsp; Change navbar color for notes repo<br>◻️  &nbsp; Format date in notes repo<br>◻️  &nbsp; Update code website<br>◻️  &nbsp; Update til website<br>◻️  &nbsp; Pay electricity bill<br>◻️  &nbsp; Do xunit course<br>◻️  &nbsp; Backup photo<br>◻️  &nbsp; Update readmes with social links<br>◻️  &nbsp; Fix laptop bag<br>◻️  &nbsp; Setup alfred workflows<br>◻️  &nbsp; Solve leetcode 606<br>◻️  &nbsp; Read “the old man and the sea”<br>◻️  &nbsp; Create a cli for common tasks
+◻️  &nbsp; Update code website<br>◻️  &nbsp; Update til website<br>◻️  &nbsp; Pay electricity bill<br>◻️  &nbsp; Do xunit course<br>◻️  &nbsp; Backup photo<br>◻️  &nbsp; Update readmes with social links<br>◻️  &nbsp; Fix laptop bag<br>◻️  &nbsp; Setup alfred workflows<br>◻️  &nbsp; Solve leetcode 606<br>◻️  &nbsp; Read “the old man and the sea”<br>◻️  &nbsp; Create a cli for common tasks
 <!-- todos ends -->
 
 ## Last 20 completed todos
 
 <!-- completed starts -->
-✅  &nbsp; Pay bills for this month - **_Mar 01 2021_**<br>✅  &nbsp; Pay bill, order electric toothbrush, weight machine, renew wifi - **_Jan 07 2021_**<br>✅  &nbsp; Solve leetcode 11 - **_Jan 01 2021_**<br>✅  &nbsp; Oreilly reactive spring boot chapter 5 - **_Jan 01 2021_**<br>✅  &nbsp; Create topic wise list of important leetcode questions - **_Dec 30 2020_**<br>✅  &nbsp; Complete udemy mysql section 13 - **_Dec 29 2020_**<br>✅  &nbsp; Complete udemy mysql section 12 - **_Dec 29 2020_**<br>✅  &nbsp; Update readme template - **_Dec 29 2020_**<br>✅  &nbsp; Add github action for todos repo - **_Dec 27 2020_**<br>✅  &nbsp; Clean up personal bot - **_Dec 26 2020_**<br>✅  &nbsp; Get clothes from laundry - **_Dec 26 2020_**<br>✅  &nbsp; Order eggs - **_Dec 26 2020_**<br>✅  &nbsp; Rewrite the process api using next.js - **_Dec 26 2020_**<br>✅  &nbsp; Add defer option for tasks - **_Dec 26 2020_**<br>✅  &nbsp; Pay american express bill for term insurance premium fee - **_Dec 26 2020_**<br>✅  &nbsp; Generate index of all the courses i have done - **_Dec 26 2020_**<br>✅  &nbsp; Throw trash - **_Dec 26 2020_**<br>✅  &nbsp; Order chaipatti, ginger, butter - **_Dec 18 2020_**<br>✅  &nbsp; Get water can - **_Dec 18 2020_**<br>✅  &nbsp; Do laundry - **_Dec 13 2020_**
+✅  &nbsp; Change navbar color for notes repo - **_Mar 02 2021_**<br>✅  &nbsp; Format date in notes repo - **_Mar 02 2021_**<br>✅  &nbsp; Pay bills for this month - **_Mar 01 2021_**<br>✅  &nbsp; Pay bill, order electric toothbrush, weight machine, renew wifi - **_Jan 07 2021_**<br>✅  &nbsp; Solve leetcode 11 - **_Jan 01 2021_**<br>✅  &nbsp; Oreilly reactive spring boot chapter 5 - **_Jan 01 2021_**<br>✅  &nbsp; Create topic wise list of important leetcode questions - **_Dec 30 2020_**<br>✅  &nbsp; Complete udemy mysql section 13 - **_Dec 29 2020_**<br>✅  &nbsp; Complete udemy mysql section 12 - **_Dec 29 2020_**<br>✅  &nbsp; Update readme template - **_Dec 29 2020_**<br>✅  &nbsp; Add github action for todos repo - **_Dec 27 2020_**<br>✅  &nbsp; Clean up personal bot - **_Dec 26 2020_**<br>✅  &nbsp; Get clothes from laundry - **_Dec 26 2020_**<br>✅  &nbsp; Order eggs - **_Dec 26 2020_**<br>✅  &nbsp; Rewrite the process api using next.js - **_Dec 26 2020_**<br>✅  &nbsp; Add defer option for tasks - **_Dec 26 2020_**<br>✅  &nbsp; Pay american express bill for term insurance premium fee - **_Dec 26 2020_**<br>✅  &nbsp; Generate index of all the courses i have done - **_Dec 26 2020_**<br>✅  &nbsp; Throw trash - **_Dec 26 2020_**<br>✅  &nbsp; Order chaipatti, ginger, butter - **_Dec 18 2020_**
 <!-- completed ends -->

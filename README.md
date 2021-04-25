@@ -23,7 +23,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️  &nbsp; Stop some of the credit card subscriptions<br>◻️  &nbsp; Arrange documents for visa<br>◻️  &nbsp; Get pcc<br>◻️  &nbsp; Organize documents<br>◻️  &nbsp; Backup photo<br>◻️  &nbsp; Update readmes with social links<br>◻️  &nbsp; Fix laptop bag<br>◻️  &nbsp; Setup alfred workflows<br>◻️  &nbsp; Solve leetcode 606<br>◻️  &nbsp; Read “the old man and the sea”<br>◻️  &nbsp; Create a cli for common tasks
+◻️  &nbsp; Pay bills<br>◻️  &nbsp; Recharge vodaphone<br>◻️  &nbsp; Stop some of the credit card subscriptions<br>◻️  &nbsp; Arrange documents for visa<br>◻️  &nbsp; Get pcc<br>◻️  &nbsp; Organize documents<br>◻️  &nbsp; Backup photo<br>◻️  &nbsp; Update readmes with social links<br>◻️  &nbsp; Fix laptop bag<br>◻️  &nbsp; Setup alfred workflows<br>◻️  &nbsp; Solve leetcode 606<br>◻️  &nbsp; Read “the old man and the sea”<br>◻️  &nbsp; Create a cli for common tasks
 <!-- todos ends -->
 
 ## Last 20 completed todos

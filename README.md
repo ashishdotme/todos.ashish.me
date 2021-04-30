@@ -16,9 +16,9 @@
 
 ## Stats
 
-<!-- week starts --><b>Week</b> - 2 tasks completed (26-April - 02-May)<br><!-- week ends -->
-<!-- month starts --><b>Month</b> - 10 tasks completed (Apr 2021)<br><!-- month ends -->
-<!-- year starts --><b>Year</b> - 26 tasks completed (Year 2021)<!-- year ends -->
+<!-- week starts --><b>Week</b> - 3 tasks completed (26-April - 02-May)<br><!-- week ends -->
+<!-- month starts --><b>Month</b> - 11 tasks completed (Apr 2021)<br><!-- month ends -->
+<!-- year starts --><b>Year</b> - 27 tasks completed (Year 2021)<!-- year ends -->
 
 ## Todos
 
@@ -29,5 +29,5 @@
 ## Last 20 completed todos
 
 <!-- completed starts -->
-✅  &nbsp; Work on sync todo script - **_Apr 30 2021_**<br>✅  &nbsp; Create a cli for common tasks - **_Apr 25 2021_**<br>✅  &nbsp; Buy tumeric, chilli powder, oil - **_Apr 24 2021_**<br>✅  &nbsp; Add authentication to get api - **_Apr 24 2021_**<br>✅  &nbsp; Check refresh token is working - **_Apr 24 2021_**<br>✅  &nbsp; Fix pentesting issues - **_Apr 14 2021_**<br>✅  &nbsp; Scan front and back of passport, aadhar - **_Apr 13 2021_**<br>✅  &nbsp; Pay bills for march - **_Apr 12 2021_**<br>✅  &nbsp; Buy items from amazon wishlist - **_Apr 12 2021_**<br>✅  &nbsp; Update resume - **_Apr 12 2021_**<br>✅  &nbsp; Buy lock - **_Mar 29 2021_**<br>✅  &nbsp; Write terraform script - **_Mar 27 2021_**<br>✅  &nbsp; Take duolingo - **_Mar 27 2021_**<br>✅  &nbsp; Add unit tests - **_Mar 20 2021_**<br>✅  &nbsp; Buy bulb - **_Mar 18 2021_**<br>✅  &nbsp; Buy flip flops - **_Mar 15 2021_**<br>✅  &nbsp; Pay electricity bill - **_Mar 13 2021_**<br>✅  &nbsp; Do xunit course - **_Mar 13 2021_**<br>✅  &nbsp; Update code website - **_Mar 02 2021_**<br>✅  &nbsp; Update til website - **_Mar 02 2021_**
+✅  &nbsp; Buy ginger powder - **_Apr 30 2021_**<br>✅  &nbsp; Work on sync todo script - **_Apr 30 2021_**<br>✅  &nbsp; Create a cli for common tasks - **_Apr 25 2021_**<br>✅  &nbsp; Buy tumeric, chilli powder, oil - **_Apr 24 2021_**<br>✅  &nbsp; Add authentication to get api - **_Apr 24 2021_**<br>✅  &nbsp; Check refresh token is working - **_Apr 24 2021_**<br>✅  &nbsp; Fix pentesting issues - **_Apr 14 2021_**<br>✅  &nbsp; Scan front and back of passport, aadhar - **_Apr 13 2021_**<br>✅  &nbsp; Pay bills for march - **_Apr 12 2021_**<br>✅  &nbsp; Buy items from amazon wishlist - **_Apr 12 2021_**<br>✅  &nbsp; Update resume - **_Apr 12 2021_**<br>✅  &nbsp; Buy lock - **_Mar 29 2021_**<br>✅  &nbsp; Write terraform script - **_Mar 27 2021_**<br>✅  &nbsp; Take duolingo - **_Mar 27 2021_**<br>✅  &nbsp; Add unit tests - **_Mar 20 2021_**<br>✅  &nbsp; Buy bulb - **_Mar 18 2021_**<br>✅  &nbsp; Buy flip flops - **_Mar 15 2021_**<br>✅  &nbsp; Pay electricity bill - **_Mar 13 2021_**<br>✅  &nbsp; Do xunit course - **_Mar 13 2021_**<br>✅  &nbsp; Update code website - **_Mar 02 2021_**
 <!-- completed ends -->

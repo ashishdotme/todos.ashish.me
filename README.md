@@ -23,7 +23,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️  &nbsp; Sell macbook air<br>◻️  &nbsp; Sell macbook air<br>◻️  &nbsp; Pay bills<br>◻️  &nbsp; Stop some of the credit card subscriptions<br>◻️  &nbsp; Arrange documents for visa<br>◻️  &nbsp; Get pcc<br>◻️  &nbsp; Organize documents<br>◻️  &nbsp; Backup photo<br>◻️  &nbsp; Update readmes with social links<br>◻️  &nbsp; Fix laptop bag<br>◻️  &nbsp; Setup alfred workflows<br>◻️  &nbsp; Solve leetcode 606<br>◻️  &nbsp; Read “the old man and the sea”
+◻️  &nbsp; Sell macbook air<br>◻️  &nbsp; Sell macbook air<br>◻️  &nbsp; Sell macbook air<br>◻️  &nbsp; Sell macbook air<br>◻️  &nbsp; Pay bills<br>◻️  &nbsp; Stop some of the credit card subscriptions<br>◻️  &nbsp; Arrange documents for visa<br>◻️  &nbsp; Get pcc<br>◻️  &nbsp; Organize documents<br>◻️  &nbsp; Backup photo<br>◻️  &nbsp; Update readmes with social links<br>◻️  &nbsp; Fix laptop bag<br>◻️  &nbsp; Setup alfred workflows<br>◻️  &nbsp; Solve leetcode 606<br>◻️  &nbsp; Read “the old man and the sea”
 <!-- todos ends -->
 
 ## Last 20 completed todos

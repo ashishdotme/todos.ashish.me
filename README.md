@@ -23,7 +23,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️  &nbsp; Upload documents for pcc<br>◻️  &nbsp; Update connector doc<br>◻️  &nbsp; Upload documents for pcc<br>◻️  &nbsp; Buy mango pickle<br>◻️  &nbsp; Buy garbage bag<br>◻️  &nbsp; Change client secret<br>◻️  &nbsp; Stop some of the credit card subscriptions<br>◻️  &nbsp; Arrange documents for visa<br>◻️  &nbsp; Organize documents<br>◻️  &nbsp; Backup photo<br>◻️  &nbsp; Fix laptop bag<br>◻️  &nbsp; Setup alfred workflows
+◻️  &nbsp; Update connector doc<br>◻️  &nbsp; Buy mango pickle<br>◻️  &nbsp; Buy garbage bag<br>◻️  &nbsp; Change client secret<br>◻️  &nbsp; Stop some of the credit card subscriptions<br>◻️  &nbsp; Arrange documents for visa<br>◻️  &nbsp; Organize documents<br>◻️  &nbsp; Backup photo<br>◻️  &nbsp; Fix laptop bag<br>◻️  &nbsp; Setup alfred workflows
 <!-- todos ends -->
 
 ## Last 20 completed todos

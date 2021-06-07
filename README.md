@@ -23,7 +23,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️  &nbsp; Secops review<br>◻️  &nbsp; Fix codesmells<br>◻️  &nbsp; Update checklist<br>◻️  &nbsp; Create postman collection<br>◻️  &nbsp; Clean kitchen<br>◻️  &nbsp; Stop some of the credit card subscriptions<br>◻️  &nbsp; Arrange documents for visa<br>◻️  &nbsp; Organize documents<br>◻️  &nbsp; Backup photo<br>◻️  &nbsp; Fix laptop bag<br>◻️  &nbsp; Setup alfred workflows
+◻️  &nbsp; Redeploy old arch<br>◻️  &nbsp; Secops review<br>◻️  &nbsp; Fix codesmells<br>◻️  &nbsp; Update checklist<br>◻️  &nbsp; Create postman collection<br>◻️  &nbsp; Clean kitchen<br>◻️  &nbsp; Stop some of the credit card subscriptions<br>◻️  &nbsp; Arrange documents for visa<br>◻️  &nbsp; Organize documents<br>◻️  &nbsp; Backup photo<br>◻️  &nbsp; Fix laptop bag<br>◻️  &nbsp; Setup alfred workflows
 <!-- todos ends -->
 
 ## Last 20 completed todos

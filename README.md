@@ -23,7 +23,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️  &nbsp; Sell macbook air<br>◻️  &nbsp; Get gas cylinder<br>◻️  &nbsp; Pay bills<br>◻️  &nbsp; Pay rent<br>◻️  &nbsp; Redeploy old arch<br>◻️  &nbsp; Secops review<br>◻️  &nbsp; Fix codesmells<br>◻️  &nbsp; Update checklist<br>◻️  &nbsp; Create postman collection<br>◻️  &nbsp; Clean kitchen<br>◻️  &nbsp; Stop some of the credit card subscriptions<br>◻️  &nbsp; Arrange documents for visa<br>◻️  &nbsp; Organize documents<br>◻️  &nbsp; Backup photo<br>◻️  &nbsp; Fix laptop bag<br>◻️  &nbsp; Setup alfred workflows
+◻️  &nbsp; Give clothes for laundry<br>◻️  &nbsp; Sell macbook air<br>◻️  &nbsp; Get gas cylinder<br>◻️  &nbsp; Pay bills<br>◻️  &nbsp; Pay rent<br>◻️  &nbsp; Redeploy old arch<br>◻️  &nbsp; Secops review<br>◻️  &nbsp; Fix codesmells<br>◻️  &nbsp; Update checklist<br>◻️  &nbsp; Create postman collection<br>◻️  &nbsp; Clean kitchen<br>◻️  &nbsp; Stop some of the credit card subscriptions<br>◻️  &nbsp; Arrange documents for visa<br>◻️  &nbsp; Organize documents<br>◻️  &nbsp; Backup photo<br>◻️  &nbsp; Fix laptop bag<br>◻️  &nbsp; Setup alfred workflows
 <!-- todos ends -->
 
 ## Last 20 completed todos

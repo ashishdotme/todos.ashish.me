@@ -23,7 +23,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️  &nbsp; Stop some of the credit card subscriptions<br>◻️  &nbsp; Backup photo
+◻️  &nbsp; Get gym subscription<br>◻️  &nbsp; Throw garbage<br>◻️  &nbsp; Stop some of the credit card subscriptions<br>◻️  &nbsp; Backup photo
 <!-- todos ends -->
 
 ## Last 20 completed todos

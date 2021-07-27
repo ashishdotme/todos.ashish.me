@@ -23,7 +23,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️  &nbsp; Write document on spike story<br>◻️  &nbsp; Send kyc document to parents<br>◻️  &nbsp; Order new electric toothbrush<br>◻️  &nbsp; Sell cooler<br>◻️  &nbsp; Sell vaccum cleaner<br>◻️  &nbsp; Get isp refund<br>◻️  &nbsp; Get second dose of vaccination<br>◻️  &nbsp; Backup photo
+◻️  &nbsp; Order new glasses<br>◻️  &nbsp; Write document on spike story<br>◻️  &nbsp; Send kyc document to parents<br>◻️  &nbsp; Order new electric toothbrush<br>◻️  &nbsp; Sell cooler<br>◻️  &nbsp; Sell vaccum cleaner<br>◻️  &nbsp; Get isp refund<br>◻️  &nbsp; Get second dose of vaccination<br>◻️  &nbsp; Backup photo
 <!-- todos ends -->
 
 ## Last 20 completed todos

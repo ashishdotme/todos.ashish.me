@@ -23,7 +23,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️  &nbsp; Order new glasses<br>◻️  &nbsp; Order new electric toothbrush<br>◻️  &nbsp; Sell cooler<br>◻️  &nbsp; Sell vaccum cleaner<br>◻️  &nbsp; Get isp refund<br>◻️  &nbsp; Get second dose of vaccination<br>◻️  &nbsp; Backup photo
+◻️  &nbsp; Verify documents for courier<br>◻️  &nbsp; Order eggs<br>◻️  &nbsp; Order new glasses<br>◻️  &nbsp; Order new electric toothbrush<br>◻️  &nbsp; Sell cooler<br>◻️  &nbsp; Sell vaccum cleaner<br>◻️  &nbsp; Get isp refund<br>◻️  &nbsp; Get second dose of vaccination<br>◻️  &nbsp; Backup photo
 <!-- todos ends -->
 
 ## Last 20 completed todos

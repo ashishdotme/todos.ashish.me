@@ -16,9 +16,9 @@
 
 ## Stats
 
-<!-- week starts --><b>Week</b> - 11 tasks completed (26-July - 01-August)<br><!-- week ends -->
-<!-- month starts --><b>Month</b> - 12 tasks completed (Jul 2021)<br><!-- month ends -->
-<!-- year starts --><b>Year</b> - 68 tasks completed (Year 2021)<!-- year ends -->
+<!-- week starts --><b>Week</b> - 1 tasks completed (02-August - 08-August)<br><!-- week ends -->
+<!-- month starts --><b>Month</b> - 1 tasks completed (Aug 2021)<br><!-- month ends -->
+<!-- year starts --><b>Year</b> - 69 tasks completed (Year 2021)<!-- year ends -->
 
 ## Todos
 
@@ -29,5 +29,5 @@
 ## Last 20 completed todos
 
 <!-- completed starts -->
-✅  &nbsp; Write document on spike story - **_Jul 29 2021_**<br>✅  &nbsp; Send kyc document to parents - **_Jul 29 2021_**<br>✅  &nbsp; Setup dev env infra code - **_Jul 27 2021_**<br>✅  &nbsp; Get gym subscription - **_Jul 27 2021_**<br>✅  &nbsp; Throw garbage - **_Jul 26 2021_**<br>✅  &nbsp; Stop some of the credit card subscriptions - **_Jul 26 2021_**<br>✅  &nbsp; Add acceptance tests - **_Jul 25 2021_**<br>✅  &nbsp; Education summary - **_Jul 25 2021_**<br>✅  &nbsp; Sell macbook air - **_Jul 25 2021_**<br>✅  &nbsp; Pay bills - **_Jul 25 2021_**<br>✅  &nbsp; Arrange documents for visa - **_Jul 25 2021_**<br>✅  &nbsp; Organize documents - **_Jul 11 2021_**<br>✅  &nbsp; Get gas cylinder - **_Jun 26 2021_**<br>✅  &nbsp; Fix codesmells - **_Jun 24 2021_**<br>✅  &nbsp; Fix laptop bag - **_Jun 16 2021_**<br>✅  &nbsp; Setup alfred workflows - **_Jun 16 2021_**<br>✅  &nbsp; Buy vegetable oil and chaipatti - **_Jun 11 2021_**<br>✅  &nbsp; Redeploy old arch - **_Jun 11 2021_**<br>✅  &nbsp; Clean kitchen - **_Jun 11 2021_**<br>✅  &nbsp; Give clothes for laundry - **_Jun 10 2021_**
+✅  &nbsp; Register for second dose - **_Aug 02 2021_**<br>✅  &nbsp; Write document on spike story - **_Jul 29 2021_**<br>✅  &nbsp; Send kyc document to parents - **_Jul 29 2021_**<br>✅  &nbsp; Setup dev env infra code - **_Jul 27 2021_**<br>✅  &nbsp; Get gym subscription - **_Jul 27 2021_**<br>✅  &nbsp; Throw garbage - **_Jul 26 2021_**<br>✅  &nbsp; Stop some of the credit card subscriptions - **_Jul 26 2021_**<br>✅  &nbsp; Add acceptance tests - **_Jul 25 2021_**<br>✅  &nbsp; Education summary - **_Jul 25 2021_**<br>✅  &nbsp; Sell macbook air - **_Jul 25 2021_**<br>✅  &nbsp; Pay bills - **_Jul 25 2021_**<br>✅  &nbsp; Arrange documents for visa - **_Jul 25 2021_**<br>✅  &nbsp; Organize documents - **_Jul 11 2021_**<br>✅  &nbsp; Get gas cylinder - **_Jun 26 2021_**<br>✅  &nbsp; Fix codesmells - **_Jun 24 2021_**<br>✅  &nbsp; Fix laptop bag - **_Jun 16 2021_**<br>✅  &nbsp; Setup alfred workflows - **_Jun 16 2021_**<br>✅  &nbsp; Buy vegetable oil and chaipatti - **_Jun 11 2021_**<br>✅  &nbsp; Redeploy old arch - **_Jun 11 2021_**<br>✅  &nbsp; Clean kitchen - **_Jun 11 2021_**
 <!-- completed ends -->

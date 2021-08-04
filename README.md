@@ -23,7 +23,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️  &nbsp; Put tempered glass on iphone<br>◻️  &nbsp; Buy luggage bag<br>◻️  &nbsp; Fix chain of laptop bag<br>◻️  &nbsp; Fill up college forms<br>◻️  &nbsp; Go to dermatologist<br>◻️  &nbsp; Order eggs<br>◻️  &nbsp; Order new glasses<br>◻️  &nbsp; Sell cooler<br>◻️  &nbsp; Sell vaccum cleaner<br>◻️  &nbsp; Get isp refund<br>◻️  &nbsp; Get second dose of vaccination<br>◻️  &nbsp; Backup photo
+◻️  &nbsp; Prepare list of dishes to learn<br>◻️  &nbsp; Complete mandatory course<br>◻️  &nbsp; Put tempered glass on iphone<br>◻️  &nbsp; Buy luggage bag<br>◻️  &nbsp; Fix chain of laptop bag<br>◻️  &nbsp; Fill up college forms<br>◻️  &nbsp; Go to dermatologist<br>◻️  &nbsp; Order eggs<br>◻️  &nbsp; Order new glasses<br>◻️  &nbsp; Sell cooler<br>◻️  &nbsp; Sell vaccum cleaner<br>◻️  &nbsp; Get isp refund<br>◻️  &nbsp; Get second dose of vaccination<br>◻️  &nbsp; Backup photo
 <!-- todos ends -->
 
 ## Last 20 completed todos

@@ -23,7 +23,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️  &nbsp; Buy 2 single bedsheet<br>◻️  &nbsp; Get formal wear<br>◻️  &nbsp; Visit dentist<br>◻️  &nbsp; Buy notebooks<br>◻️  &nbsp; Prepare list of dishes to learn<br>◻️  &nbsp; Complete mandatory course<br>◻️  &nbsp; Put tempered glass on iphone<br>◻️  &nbsp; Fill up college forms<br>◻️  &nbsp; Sell cooler<br>◻️  &nbsp; Sell vaccum cleaner<br>◻️  &nbsp; Get isp refund<br>◻️  &nbsp; Get second dose of vaccination<br>◻️  &nbsp; Backup photo
+◻️  &nbsp; Testing<br>◻️  &nbsp; Buy 2 single bedsheet<br>◻️  &nbsp; Get formal wear<br>◻️  &nbsp; Visit dentist<br>◻️  &nbsp; Buy notebooks<br>◻️  &nbsp; Prepare list of dishes to learn<br>◻️  &nbsp; Complete mandatory course<br>◻️  &nbsp; Put tempered glass on iphone<br>◻️  &nbsp; Fill up college forms<br>◻️  &nbsp; Sell cooler<br>◻️  &nbsp; Sell vaccum cleaner<br>◻️  &nbsp; Get isp refund<br>◻️  &nbsp; Get second dose of vaccination<br>◻️  &nbsp; Backup photo
 <!-- todos ends -->
 
 ## Last 20 completed todos

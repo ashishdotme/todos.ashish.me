@@ -23,7 +23,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️  &nbsp; Get water can<br>◻️  &nbsp; Do laundry<br>◻️  &nbsp; Fill up starting at ireland form<br>◻️  &nbsp; Testing<br>◻️  &nbsp; Get formal wear<br>◻️  &nbsp; Visit dentist<br>◻️  &nbsp; Buy notebooks<br>◻️  &nbsp; Prepare list of dishes to learn<br>◻️  &nbsp; Complete mandatory course<br>◻️  &nbsp; Sell vaccum cleaner<br>◻️  &nbsp; Get isp refund<br>◻️  &nbsp; Backup photo
+◻️  &nbsp; Buy shower gel<br>◻️  &nbsp; Get water can<br>◻️  &nbsp; Do laundry<br>◻️  &nbsp; Fill up starting at ireland form<br>◻️  &nbsp; Testing<br>◻️  &nbsp; Get formal wear<br>◻️  &nbsp; Visit dentist<br>◻️  &nbsp; Buy notebooks<br>◻️  &nbsp; Prepare list of dishes to learn<br>◻️  &nbsp; Complete mandatory course<br>◻️  &nbsp; Sell vaccum cleaner<br>◻️  &nbsp; Get isp refund<br>◻️  &nbsp; Backup photo
 <!-- todos ends -->
 
 ## Last 20 completed todos

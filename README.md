@@ -23,7 +23,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️  &nbsp; Buy trackpants and shoes<br>◻️  &nbsp; Buy jacket<br>◻️  &nbsp; Testing<br>◻️  &nbsp; Buy notebooks<br>◻️  &nbsp; Prepare list of dishes to learn<br>◻️  &nbsp; Get isp refund<br>◻️  &nbsp; Backup photo
+◻️  &nbsp; Buy pepper and peanut butter<br>◻️  &nbsp; Buy trackpants and shoes<br>◻️  &nbsp; Buy jacket<br>◻️  &nbsp; Testing<br>◻️  &nbsp; Buy notebooks<br>◻️  &nbsp; Prepare list of dishes to learn<br>◻️  &nbsp; Get isp refund<br>◻️  &nbsp; Backup photo
 <!-- todos ends -->
 
 ## Last 20 completed todos

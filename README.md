@@ -23,7 +23,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️  &nbsp; Buy tur daal, flour<br>◻️  &nbsp; Buy butter, cauliflower, tomato, onion, chilly<br>◻️  &nbsp; Buy milk chicken sausages<br>◻️  &nbsp; Buy soap container<br>◻️  &nbsp; Buy clock battery<br>◻️  &nbsp; Buy eggs<br>◻️  &nbsp; Buy jacket<br>◻️  &nbsp; Get bodylotion<br>◻️  &nbsp; Clean room and laptop<br>◻️  &nbsp; Buy notebook and pen<br>◻️  &nbsp; Buy pepper and peanut butter<br>◻️  &nbsp; Buy trackpants and shoes<br>◻️  &nbsp; Backup photo
+◻️  &nbsp; Research metamask<br>◻️  &nbsp; Buy tur daal, flour<br>◻️  &nbsp; Buy butter, cauliflower, tomato, onion, chilly<br>◻️  &nbsp; Buy milk chicken sausages<br>◻️  &nbsp; Buy soap container<br>◻️  &nbsp; Buy clock battery<br>◻️  &nbsp; Buy eggs<br>◻️  &nbsp; Buy jacket<br>◻️  &nbsp; Get bodylotion<br>◻️  &nbsp; Clean room and laptop<br>◻️  &nbsp; Buy notebook and pen<br>◻️  &nbsp; Buy pepper and peanut butter<br>◻️  &nbsp; Buy trackpants and shoes<br>◻️  &nbsp; Backup photo
 <!-- todos ends -->
 
 ## Last 20 completed todos

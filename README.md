@@ -23,7 +23,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️  &nbsp; Research metamask<br>◻️  &nbsp; Buy tur daal, flour<br>◻️  &nbsp; Buy soap container<br>◻️  &nbsp; Buy clock battery<br>◻️  &nbsp; Clean room and laptop<br>◻️  &nbsp; Buy trackpants and shoes<br>◻️  &nbsp; Backup photo
+◻️  &nbsp; Buy lemon juice<br>◻️  &nbsp; Milk and sausages<br>◻️  &nbsp; Research metamask<br>◻️  &nbsp; Buy tur daal, flour<br>◻️  &nbsp; Buy soap container<br>◻️  &nbsp; Buy clock battery<br>◻️  &nbsp; Clean room and laptop<br>◻️  &nbsp; Buy trackpants and shoes<br>◻️  &nbsp; Backup photo
 <!-- todos ends -->
 
 ## Last 20 completed todos

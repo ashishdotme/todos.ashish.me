@@ -23,7 +23,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️  &nbsp; Buy lemon juice<br>◻️  &nbsp; Research metamask<br>◻️  &nbsp; Buy tur daal, flour<br>◻️  &nbsp; Buy clock battery<br>◻️  &nbsp; Backup photo
+◻️  &nbsp; Buy laptop screen guard and keyboard cover<br>◻️  &nbsp; Buy lemon juice<br>◻️  &nbsp; Research metamask<br>◻️  &nbsp; Buy tur daal, flour<br>◻️  &nbsp; Buy clock battery<br>◻️  &nbsp; Backup photo
 <!-- todos ends -->
 
 ## Last 20 completed todos

@@ -16,9 +16,9 @@
 
 ## Stats
 
-<!-- week starts --><b>Week</b> - 3 tasks completed (18-October - 24-October)<br><!-- week ends -->
-<!-- month starts --><b>Month</b> - 7 tasks completed (Oct 2021)<br><!-- month ends -->
-<!-- year starts --><b>Year</b> - 119 tasks completed (Year 2021)<!-- year ends -->
+<!-- week starts --><b>Week</b> - 2 tasks completed (25-October - 31-October)<br><!-- week ends -->
+<!-- month starts --><b>Month</b> - 9 tasks completed (Oct 2021)<br><!-- month ends -->
+<!-- year starts --><b>Year</b> - 121 tasks completed (Year 2021)<!-- year ends -->
 
 ## Todos
 
@@ -29,5 +29,5 @@
 ## Last 20 completed todos
 
 <!-- completed starts -->
-✅  &nbsp; Buy lemon juice - **_Oct 20 2021_**<br>✅  &nbsp; Buy tur daal, flour - **_Oct 20 2021_**<br>✅  &nbsp; Buy clock battery - **_Oct 20 2021_**<br>✅  &nbsp; Milk and sausages - **_Oct 04 2021_**<br>✅  &nbsp; Buy soap container - **_Oct 04 2021_**<br>✅  &nbsp; Clean room and laptop - **_Oct 04 2021_**<br>✅  &nbsp; Buy trackpants and shoes - **_Oct 04 2021_**<br>✅  &nbsp; Buy hand towel - **_Sep 29 2021_**<br>✅  &nbsp; Buy gym bag, deodorant - **_Sep 29 2021_**<br>✅  &nbsp; Buy butter, cauliflower, tomato, onion, chilly - **_Sep 29 2021_**<br>✅  &nbsp; Buy milk chicken sausages - **_Sep 29 2021_**<br>✅  &nbsp; Buy eggs - **_Sep 29 2021_**<br>✅  &nbsp; Buy jacket - **_Sep 29 2021_**<br>✅  &nbsp; Get bodylotion - **_Sep 29 2021_**<br>✅  &nbsp; Buy notebook and pen - **_Sep 29 2021_**<br>✅  &nbsp; Buy pepper and peanut butter - **_Sep 29 2021_**<br>✅  &nbsp; Buy bottle - **_Sep 28 2021_**<br>✅  &nbsp; Buy jacket - **_Sep 27 2021_**<br>✅  &nbsp; Buy shower gel - **_Sep 27 2021_**<br>✅  &nbsp; Testing - **_Sep 27 2021_**
+✅  &nbsp; Subcribe to google one - **_Oct 26 2021_**<br>✅  &nbsp; Recharge vodafone - **_Oct 26 2021_**<br>✅  &nbsp; Buy lemon juice - **_Oct 20 2021_**<br>✅  &nbsp; Buy tur daal, flour - **_Oct 20 2021_**<br>✅  &nbsp; Buy clock battery - **_Oct 20 2021_**<br>✅  &nbsp; Milk and sausages - **_Oct 04 2021_**<br>✅  &nbsp; Buy soap container - **_Oct 04 2021_**<br>✅  &nbsp; Clean room and laptop - **_Oct 04 2021_**<br>✅  &nbsp; Buy trackpants and shoes - **_Oct 04 2021_**<br>✅  &nbsp; Buy hand towel - **_Sep 29 2021_**<br>✅  &nbsp; Buy gym bag, deodorant - **_Sep 29 2021_**<br>✅  &nbsp; Buy butter, cauliflower, tomato, onion, chilly - **_Sep 29 2021_**<br>✅  &nbsp; Buy milk chicken sausages - **_Sep 29 2021_**<br>✅  &nbsp; Buy eggs - **_Sep 29 2021_**<br>✅  &nbsp; Buy jacket - **_Sep 29 2021_**<br>✅  &nbsp; Get bodylotion - **_Sep 29 2021_**<br>✅  &nbsp; Buy notebook and pen - **_Sep 29 2021_**<br>✅  &nbsp; Buy pepper and peanut butter - **_Sep 29 2021_**<br>✅  &nbsp; Buy bottle - **_Sep 28 2021_**<br>✅  &nbsp; Buy jacket - **_Sep 27 2021_**
 <!-- completed ends -->

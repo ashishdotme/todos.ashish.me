@@ -23,7 +23,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️  &nbsp; Buy laptop screen guard and keyboard cover<br>◻️  &nbsp; Research metamask<br>◻️  &nbsp; Backup photo
+◻️  &nbsp; Upgrade macbook<br>◻️  &nbsp; Buy hoodie<br>◻️  &nbsp; Buy laptop screen guard and keyboard cover<br>◻️  &nbsp; Research metamask<br>◻️  &nbsp; Backup photo
 <!-- todos ends -->
 
 ## Last 20 completed todos

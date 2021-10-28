@@ -23,7 +23,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️  &nbsp; Upgrade macbook<br>◻️  &nbsp; Buy hoodie<br>◻️  &nbsp; Buy laptop screen guard and keyboard cover<br>◻️  &nbsp; Research metamask<br>◻️  &nbsp; Backup photo
+◻️  &nbsp; Complete project specification for cloud devops<br>◻️  &nbsp; Work on computer architecture project<br>◻️  &nbsp; Upgrade macbook<br>◻️  &nbsp; Buy hoodie<br>◻️  &nbsp; Buy laptop screen guard and keyboard cover<br>◻️  &nbsp; Research metamask<br>◻️  &nbsp; Backup photo
 <!-- todos ends -->
 
 ## Last 20 completed todos

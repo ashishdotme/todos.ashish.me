@@ -16,15 +16,9 @@
 
 ## Stats
 
-<<<<<<< HEAD
-<!-- week starts --><b>Week</b> - 8<br><!-- week ends -->
-<!-- month starts --><b>Month</b> - 8<br><!-- month ends -->
-<!-- year starts --><b>Year</b> - 135<!-- year ends -->
-=======
-<!-- week starts --><b>Week</b> - 10 tasks completed (25-October - 31-October)<br><!-- week ends -->
-<!-- month starts --><b>Month</b> - 17 tasks completed (Oct 2021)<br><!-- month ends -->
-<!-- year starts --><b>Year</b> - 129 tasks completed (Year 2021)<!-- year ends -->
->>>>>>> ba16e114346ecad6652826a82c6bde1bb068b2d5
+<!-- week starts --><b>Week</b> - 8<br><!-- week ends --> tasks completed
+<!-- month starts --><b>Month</b> - 8<br><!-- month ends --> tasks completed
+<!-- year starts --><b>Year</b> - 135<!-- year ends --> tasks completed
 
 ## Todos
 

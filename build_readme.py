@@ -98,11 +98,11 @@ if __name__ == "__main__":
     rewritten = replace_chunk(rewritten, "completed", completed_md)
 
     stats = fetch_stats()
-    week_md = "<b>Week</b> - {stat}<br>".format(
+    week_md = "<b>Week</b> - {stat}".format(
         stat=len(stats["currentWeek"]),
     )
     rewritten = replace_chunk(rewritten, "week", week_md, True)
-    month_md = "<b>Month</b> - {stat}<br>".format(
+    month_md = "<b>Month</b> - {stat}".format(
         stat=len(stats["currentMonth"]),
     )
     rewritten = replace_chunk(rewritten, "month", month_md, True)

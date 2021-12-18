@@ -1,9 +1,6 @@
 import { API } from "@ashishdotme/api-client";
 import { TodoResponse } from "@ashishdotme/sdk/todo";
 import useSWR, { responseInterface } from "swr";
-// import { database } from "../firebase/config";
-// import { DataSnapshot } from "../interfaces/FirebaseTypes";
-// import { UserContext } from "../contexts/Contexts";
 type todosResponse = responseInterface<TodoResponse[], any>;
 
 interface UseTodosReturn {

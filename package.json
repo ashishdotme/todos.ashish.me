@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "private": true,
     "dependencies": {
-        "@ashishdotme/api-client": "1.0.9",
+        "@ashishdotme/api-client": "1.0.10",
         "@ashishdotme/sdk": "1.0.4",
         "@testing-library/jest-dom": "^4.2.4",
         "@testing-library/react": "^9.3.2",

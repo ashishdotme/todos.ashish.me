@@ -16,8 +16,8 @@
 
 ## Stats
 
-<!-- week starts --><b>Week</b> - 8<br><!-- week ends --> tasks completed<br>
-<!-- month starts --><b>Month</b> - 8<br><!-- month ends --> tasks completed<br>
+<!-- week starts --><b>Week</b> - 8<!-- week ends --> tasks completed<br>
+<!-- month starts --><b>Month</b> - 8<!-- month ends --> tasks completed<br>
 <!-- year starts --><b>Year</b> - 135<!-- year ends --> tasks completed<br>
 
 ## Todos

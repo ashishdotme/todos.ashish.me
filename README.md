@@ -16,18 +16,18 @@
 
 ## Stats
 
-<!-- week starts --><b>Week</b> - 9 tasks completed (21-December - 27-December)<br><!-- week ends -->
-<!-- month starts --><b>Month</b> - 18 tasks completed (Dec 2020)<br><!-- month ends -->
-<!-- year starts --><b>Year</b> - 75 tasks completed (Year 2020)<!-- year ends -->
+<!-- week starts --><b>Week</b> - 8<br><!-- week ends -->
+<!-- month starts --><b>Month</b> - 8<br><!-- month ends -->
+<!-- year starts --><b>Year</b> - 135<!-- year ends -->
 
 ## Todos
 
 <!-- todos starts -->
-◻️  &nbsp; Complete udemy mysql section 12<br>◻️  &nbsp; Complete udemy mysql section 13<br>◻️  &nbsp; Complete udemy mysql section 12<br>◻️  &nbsp; Backup photo<br>◻️  &nbsp; Update readme template<br>◻️  &nbsp; Update readmes with social links<br>◻️  &nbsp; Fix laptop bag<br>◻️  &nbsp; Setup alfred workflows<br>◻️  &nbsp; Solve leetcode 606<br>◻️  &nbsp; Read “the old man and the sea”<br>◻️  &nbsp; Create topic wise list of important leetcode questions<br>◻️  &nbsp; Oreilly reactive spring boot chapter 5<br>◻️  &nbsp; Create a cli for common tasks
+◻️ &nbsp; Update main website<br>◻️ &nbsp; Buy cake
 <!-- todos ends -->
 
 ## Last 20 completed todos
 
 <!-- completed starts -->
-✅  &nbsp; Add github action for todos repo - **_Dec 27 2020_**<br>✅  &nbsp; Clean up personal bot - **_Dec 26 2020_**<br>✅  &nbsp; Get clothes from laundry - **_Dec 26 2020_**<br>✅  &nbsp; Order eggs - **_Dec 26 2020_**<br>✅  &nbsp; Rewrite the process api using next.js - **_Dec 26 2020_**<br>✅  &nbsp; Add defer option for tasks - **_Dec 26 2020_**<br>✅  &nbsp; Pay american express bill for term insurance premium fee - **_Dec 26 2020_**<br>✅  &nbsp; Generate index of all the courses i have done - **_Dec 26 2020_**<br>✅  &nbsp; Throw trash - **_Dec 26 2020_**<br>✅  &nbsp; Order chaipatti, ginger, butter - **_Dec 18 2020_**<br>✅  &nbsp; Get water can - **_Dec 18 2020_**<br>✅  &nbsp; Do laundry - **_Dec 13 2020_**<br>✅  &nbsp; Print aadhar card - **_Dec 13 2020_**<br>✅  &nbsp; Get esim - **_Dec 13 2020_**<br>✅  &nbsp; Solve leetcode 653 - **_Dec 11 2020_**<br>✅  &nbsp; Buy plate, cup, strainer - **_Dec 07 2020_**<br>✅  &nbsp; Order from bigbasket - **_Dec 07 2020_**<br>✅  &nbsp; Use hooks for notes app - **_Dec 06 2020_**<br>✅  &nbsp; Spring boot chapter 5 - **_Oct 26 2020_**<br>✅  &nbsp; Spring boot chapter 3 - **_Oct 26 2020_**
+✅ &nbsp; Complete blockchain report - **_Dec 17 2021_**<br>✅ &nbsp; Buy from aldi - **_Dec 17 2021_**<br>✅ &nbsp; Make coffee - **_Dec 17 2021_**<br>✅ &nbsp; Write project report for cloud platform programming - **_Dec 16 2021_**<br>✅ &nbsp; Record video - **_Dec 17 2021_**<br>✅ &nbsp; Buy hoodie - **_Dec 15 2021_**<br>✅ &nbsp; Change url in todos app - **_Dec 15 2021_**<br>✅ &nbsp; Do laundry - **_Dec 15 2021_**<br>✅ &nbsp; Backup photo - **_Oct 29 2021_**<br>✅ &nbsp; Research metamask - **_Oct 29 2021_**<br>✅ &nbsp; Buy laptop screen guard and keyboard cover - **_Oct 29 2021_**<br>✅ &nbsp; Upgrade macbook - **_Oct 29 2021_**<br>✅ &nbsp; Work on computer architecture project - **_Oct 29 2021_**<br>✅ &nbsp; Complete project specification for cloud devops - **_Oct 29 2021_**<br>✅ &nbsp; Recharge vodafone - **_Oct 26 2021_**<br>✅ &nbsp; Subcribe to google one - **_Oct 26 2021_**<br>✅ &nbsp; Buy clock battery - **_Oct 20 2021_**<br>✅ &nbsp; Buy tur daal, flour - **_Oct 20 2021_**<br>✅ &nbsp; Buy lemon juice - **_Oct 20 2021_**<br>✅ &nbsp; Buy trackpants and shoes - **_Oct 04 2021_**
 <!-- completed ends -->

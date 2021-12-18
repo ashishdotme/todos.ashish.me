@@ -6,7 +6,9 @@ import os
 from pytz import timezone
 import dateutil.parser as dt
 from datetime import datetime
+import ssl
 
+ssl.SSLContext.verify_mode = ssl.VerifyMode.CERT_OPTIONAL
 root = pathlib.Path(__file__).parent.resolve()
 
 def replace_chunk(content, marker, chunk, inline=False):
@@ -34,7 +36,7 @@ def replace_chunk_no_space(content, marker, chunk, inline=False):
 
 
 def fetch_todos():
-    url = "https://api.prod.ashish.me/todos"
+    url = "https://systemapi.prod.ashish.me/todos"
     todos = httpx.get(url).json()
 
     tasks = []
@@ -47,7 +49,7 @@ def fetch_todos():
 
 
 def fetch_completed():
-    url = "https://api.prod.ashish.me/todos"
+    url = "https://systemapi.prod.ashish.me/todos"
     todos = httpx.get(url).json()
 
     tasks = []
@@ -60,14 +62,8 @@ def fetch_completed():
 
 
 def fetch_stats():
-    url = "https://api.prod.ashish.me/todos/stats"
-    response = httpx.get(url).json()
-    stats = {}
-
-    for period, stat in response["short"].items():
-        stats[period] = stat
-
-    return stats
+    url = "https://systemapi.prod.ashish.me/todos/stats"
+    return httpx.get(url).json()
 
 
 if __name__ == "__main__":
@@ -77,7 +73,7 @@ if __name__ == "__main__":
     todos = fetch_todos()
     todos_md = "<br>".join(
         [
-            "◻️  &nbsp; {title}".format(
+            "◻️ &nbsp; {title}".format(
                 title=todo["content"].strip().capitalize(),
             )
             for todo in todos
@@ -92,7 +88,7 @@ if __name__ == "__main__":
     )[:20]
     completed_md = "<br>".join(
         [
-            "✅  &nbsp; {title} - **_{date}_**".format(
+            "✅ &nbsp; {title} - **_{date}_**".format(
                 title=todo["content"].strip().capitalize(),
                 date=dt.parse(todo["completedDate"]).astimezone(timezone('Asia/Kolkata')).strftime("%b %d %Y")
             )
@@ -103,15 +99,15 @@ if __name__ == "__main__":
 
     stats = fetch_stats()
     week_md = "<b>Week</b> - {stat}<br>".format(
-        stat=stats["week"][0],
+        stat=len(stats["currentWeek"]),
     )
     rewritten = replace_chunk(rewritten, "week", week_md, True)
     month_md = "<b>Month</b> - {stat}<br>".format(
-        stat=stats["month"][0],
+        stat=len(stats["currentMonth"]),
     )
     rewritten = replace_chunk(rewritten, "month", month_md, True)
     year_md = "<b>Year</b> - {stat}".format(
-        stat=stats["year"][0],
+        stat=len(stats["currentYear"]),
     )
     rewritten = replace_chunk(rewritten, "year", year_md, True)
 

@@ -23,7 +23,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️ &nbsp; Update main website<br>◻️ &nbsp; Buy cake
+◻️ &nbsp; Update main website<br>◻️ &nbsp; Buy cake<br>◻️ &nbsp; Recharge indian mobile number
 <!-- todos ends -->
 
 ## Last 20 completed todos

@@ -23,7 +23,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️ &nbsp; Update main website<br>◻️ &nbsp; Buy cake<br>◻️ &nbsp; Recharge indian mobile number
+◻️ &nbsp; Update main website<br>◻️ &nbsp; Buy cake<br>◻️ &nbsp; Recharge indian mobile number<br>◻️ &nbsp; Port ireland sim to 48 network
 <!-- todos ends -->
 
 ## Last 20 completed todos

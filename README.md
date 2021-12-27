@@ -16,7 +16,7 @@
 
 ## Stats
 
-<!-- week starts --><b>Week</b> - 4<!-- week ends --> tasks completed<br>
+<!-- week starts --><b>Week</b> - 0<!-- week ends --> tasks completed<br>
 <!-- month starts --><b>Month</b> - 12<!-- month ends --> tasks completed<br>
 <!-- year starts --><b>Year</b> - 139<!-- year ends --> tasks completed<br>
 

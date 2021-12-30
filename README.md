@@ -23,7 +23,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️ &nbsp; Update main website<br>◻️ &nbsp; Create service account for system api<br>◻️ &nbsp; Verify custom domain for github pages
+◻️ &nbsp; Update main website<br>◻️ &nbsp; Create service account for system api<br>◻️ &nbsp; Verify custom domain for github pages<br>◻️ &nbsp; Pay credit card bills
 <!-- todos ends -->
 
 ## Last 20 completed todos

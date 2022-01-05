@@ -23,7 +23,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️ &nbsp; Update main website<br>◻️ &nbsp; Verify custom domain for github pages<br>◻️ &nbsp; Blockchain report  [deadline 6 jan]<br>◻️ &nbsp; Cpp report  [deadline 10 jan]<br>◻️ &nbsp; Ca report [deadline 12 jan]<br>◻️ &nbsp; Cdo report [deadline 15 jan]<br>◻️ &nbsp; Complete architectural design for cpp report<br>◻️ &nbsp; Complete proposed cloud based solution for cpp report<br>◻️ &nbsp; Complete functional and non functional requirements for cpp report
+◻️ &nbsp; Update main website<br>◻️ &nbsp; Verify custom domain for github pages<br>◻️ &nbsp; Blockchain report  [deadline 6 jan]<br>◻️ &nbsp; Cpp report  [deadline 10 jan]<br>◻️ &nbsp; Ca report [deadline 12 jan]<br>◻️ &nbsp; Cdo report [deadline 15 jan]<br>◻️ &nbsp; Complete architectural design for cpp report<br>◻️ &nbsp; Complete proposed cloud based solution for cpp report<br>◻️ &nbsp; Complete functional and non functional requirements for cpp report<br>◻️ &nbsp; Buy chicken nuggets, orange juice
 <!-- todos ends -->
 
 ## Last 20 completed todos

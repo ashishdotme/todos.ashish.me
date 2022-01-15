@@ -23,7 +23,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️ &nbsp; Update main website<br>◻️ &nbsp; Verify custom domain for github pages<br>◻️ &nbsp; Cdo report [deadline 15 jan]<br>◻️ &nbsp; Follow up with ikea for refund<br>◻️ &nbsp; Buy colgate<br>◻️ &nbsp; Selfhost freshrss<br>◻️ &nbsp; Switch ls with exa in dotfiles
+◻️ &nbsp; Update main website<br>◻️ &nbsp; Verify custom domain for github pages<br>◻️ &nbsp; Cdo report [deadline 15 jan]<br>◻️ &nbsp; Follow up with ikea for refund<br>◻️ &nbsp; Buy colgate<br>◻️ &nbsp; Selfhost freshrss<br>◻️ &nbsp; Switch ls with exa in dotfiles<br>◻️ &nbsp; Add alias for opening finder<br>◻️ &nbsp; Complete abstract for cdo report<br>◻️ &nbsp; Complete ci/cd for cdo report<br>◻️ &nbsp; Complete conclusion for cdo report
 <!-- todos ends -->
 
 ## Last 20 completed todos

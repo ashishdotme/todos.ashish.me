@@ -16,18 +16,18 @@
 
 ## Stats
 
-<!-- week starts --><b>Week</b> - 5<!-- week ends --> tasks completed<br>
-<!-- month starts --><b>Month</b> - 10<!-- month ends --> tasks completed<br>
-<!-- year starts --><b>Year</b> - 10<!-- year ends --> tasks completed<br>
+<!-- week starts --><b>Week</b> - 6<!-- week ends --> tasks completed<br>
+<!-- month starts --><b>Month</b> - 11<!-- month ends --> tasks completed<br>
+<!-- year starts --><b>Year</b> - 11<!-- year ends --> tasks completed<br>
 
 ## Todos
 
 <!-- todos starts -->
-◻️ &nbsp; Update main website<br>◻️ &nbsp; Verify custom domain for github pages<br>◻️ &nbsp; Cdo report [deadline 15 jan]<br>◻️ &nbsp; Follow up with ikea for refund<br>◻️ &nbsp; Buy colgate<br>◻️ &nbsp; Selfhost freshrss<br>◻️ &nbsp; Switch ls with exa in dotfiles<br>◻️ &nbsp; Add alias for opening finder<br>◻️ &nbsp; Complete abstract for cdo report<br>◻️ &nbsp; Complete ci/cd for cdo report<br>◻️ &nbsp; Complete conclusion for cdo report
+◻️ &nbsp; Update main website<br>◻️ &nbsp; Verify custom domain for github pages<br>◻️ &nbsp; Cdo report [deadline 15 jan]<br>◻️ &nbsp; Follow up with ikea for refund<br>◻️ &nbsp; Buy colgate<br>◻️ &nbsp; Selfhost freshrss<br>◻️ &nbsp; Switch ls with exa in dotfiles<br>◻️ &nbsp; Add alias for opening finder<br>◻️ &nbsp; Complete ci/cd for cdo report<br>◻️ &nbsp; Complete conclusion for cdo report
 <!-- todos ends -->
 
 ## Last 20 completed todos
 
 <!-- completed starts -->
-✅ &nbsp; Ca report [deadline 12 jan] - **_Jan 13 2022_**<br>✅ &nbsp; Cpp report  [deadline 10 jan] - **_Jan 10 2022_**<br>✅ &nbsp; Complete architectural design for cpp report - **_Jan 10 2022_**<br>✅ &nbsp; Complete proposed cloud based solution for cpp report - **_Jan 10 2022_**<br>✅ &nbsp; Complete functional and non functional requirements for cpp report - **_Jan 10 2022_**<br>✅ &nbsp; Blockchain report  [deadline 6 jan] - **_Jan 07 2022_**<br>✅ &nbsp; Buy chicken nuggets, orange juice - **_Jan 06 2022_**<br>✅ &nbsp; Create service account for system api - **_Jan 05 2022_**<br>✅ &nbsp; Fix typo in dashboard app - **_Jan 05 2022_**<br>✅ &nbsp; Pay credit card bills - **_Jan 04 2022_**<br>✅ &nbsp; Buy coffee - **_Dec 26 2021_**<br>✅ &nbsp; Buy cake - **_Dec 21 2021_**<br>✅ &nbsp; Recharge indian mobile number - **_Dec 21 2021_**<br>✅ &nbsp; Complete blockchain report - **_Dec 17 2021_**<br>✅ &nbsp; Buy from aldi - **_Dec 17 2021_**<br>✅ &nbsp; Make coffee - **_Dec 17 2021_**<br>✅ &nbsp; Write project report for cloud platform programming - **_Dec 16 2021_**<br>✅ &nbsp; Record video - **_Dec 17 2021_**<br>✅ &nbsp; Buy hoodie - **_Dec 15 2021_**<br>✅ &nbsp; Change url in todos app - **_Dec 15 2021_**
+✅ &nbsp; Complete abstract for cdo report - **_Jan 15 2022_**<br>✅ &nbsp; Ca report [deadline 12 jan] - **_Jan 13 2022_**<br>✅ &nbsp; Cpp report  [deadline 10 jan] - **_Jan 10 2022_**<br>✅ &nbsp; Complete architectural design for cpp report - **_Jan 10 2022_**<br>✅ &nbsp; Complete proposed cloud based solution for cpp report - **_Jan 10 2022_**<br>✅ &nbsp; Complete functional and non functional requirements for cpp report - **_Jan 10 2022_**<br>✅ &nbsp; Blockchain report  [deadline 6 jan] - **_Jan 07 2022_**<br>✅ &nbsp; Buy chicken nuggets, orange juice - **_Jan 06 2022_**<br>✅ &nbsp; Create service account for system api - **_Jan 05 2022_**<br>✅ &nbsp; Fix typo in dashboard app - **_Jan 05 2022_**<br>✅ &nbsp; Pay credit card bills - **_Jan 04 2022_**<br>✅ &nbsp; Buy coffee - **_Dec 26 2021_**<br>✅ &nbsp; Buy cake - **_Dec 21 2021_**<br>✅ &nbsp; Recharge indian mobile number - **_Dec 21 2021_**<br>✅ &nbsp; Complete blockchain report - **_Dec 17 2021_**<br>✅ &nbsp; Buy from aldi - **_Dec 17 2021_**<br>✅ &nbsp; Make coffee - **_Dec 17 2021_**<br>✅ &nbsp; Write project report for cloud platform programming - **_Dec 16 2021_**<br>✅ &nbsp; Record video - **_Dec 17 2021_**<br>✅ &nbsp; Buy hoodie - **_Dec 15 2021_**
 <!-- completed ends -->

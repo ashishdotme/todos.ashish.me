@@ -98,16 +98,16 @@ if __name__ == "__main__":
     rewritten = replace_chunk(rewritten, "completed", completed_md)
 
     stats = fetch_stats()
-    week_md = "<b>Week</b> - {stat}".format(
-        stat=len(stats["currentWeek"]),
+    week_md = "<b>Current Week</b> - {stat} \n <b>Previous Week</b> - {stat2}".format(
+        stat=len(stats["currentWeek"]), stat2=len(stats["previousWeek"]),
     )
     rewritten = replace_chunk(rewritten, "week", week_md, True)
-    month_md = "<b>Month</b> - {stat}".format(
-        stat=len(stats["currentMonth"]),
+    month_md = "<b>Current Month</b> - {stat} \n <b>Previous Month</b> - {stat2}".format(
+        stat=len(stats["currentMonth"]), stat2=len(stats["previousMonth"]),
     )
     rewritten = replace_chunk(rewritten, "month", month_md, True)
-    year_md = "<b>Year</b> - {stat}".format(
-        stat=len(stats["currentYear"]),
+    year_md = "<b>Current Year</b> - {stat} \n <b>Previous Year</b> - {stat2}".format(
+        stat=len(stats["currentYear"]), stat2=len(stats["previousYear"]),
     )
     rewritten = replace_chunk(rewritten, "year", year_md, True)
 

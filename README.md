@@ -16,11 +16,11 @@
 
 ## Tasks Completed
 
-<!-- week starts --><b>Current Week</b> - 5 
+<!-- week starts --><b>Current Week</b> - 5
  <b>Previous Week</b> - 0<!-- week ends --><br>
-<!-- month starts --><b>Current Month</b> - 16 
+<!-- month starts --><b>Current Month</b> - 16
  <b>Previous Month</b> - 11<!-- month ends --><br>
-<!-- year starts --><b>Current Month</b> - 16 
+<!-- year starts --><b>Current Month</b> - 16
  <b>Previous Month</b> - 138<!-- year ends --><br>
 
 ## Todos

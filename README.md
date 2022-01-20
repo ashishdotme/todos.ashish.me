@@ -26,7 +26,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️ &nbsp; Update main website<br>◻️ &nbsp; Verify custom domain for github pages<br>◻️ &nbsp; Follow up with ikea for refund<br>◻️ &nbsp; Buy colgate<br>◻️ &nbsp; Selfhost freshrss<br>◻️ &nbsp; Fix date picker in dashboard<br>◻️ &nbsp; Move word, quote, shortner to new api<br>◻️ &nbsp; Update books and others endpoint<br>◻️ &nbsp; Shut down old api
+◻️ &nbsp; Update main website<br>◻️ &nbsp; Verify custom domain for github pages<br>◻️ &nbsp; Follow up with ikea for refund<br>◻️ &nbsp; Buy colgate<br>◻️ &nbsp; Selfhost freshrss<br>◻️ &nbsp; Fix date picker in dashboard<br>◻️ &nbsp; Move word, quote, shortner to new api<br>◻️ &nbsp; Update books and others endpoint<br>◻️ &nbsp; Shut down old api<br>◻️ &nbsp; Fix link and font size in featured work
 <!-- todos ends -->
 
 ## Last 20 completed todos

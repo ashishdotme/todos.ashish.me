@@ -17,7 +17,7 @@
 ## Tasks Completed
 
 <!-- week starts --><b>Current Week</b> - 3 
- <b>Previous Week</b> - 9<!-- week ends --><br>
+ <b>Previous Week</b> - 6<!-- week ends --><br>
 <!-- month starts --><b>Current Month</b> - 24 
  <b>Previous Month</b> - 11<!-- month ends --><br>
 <!-- year starts --><b>Current Year</b> - 24 

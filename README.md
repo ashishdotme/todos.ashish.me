@@ -26,7 +26,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️ &nbsp; Verify custom domain for github pages<br>◻️ &nbsp; Follow up with ikea for refund<br>◻️ &nbsp; Buy colgate<br>◻️ &nbsp; Update about me page<br>◻️ &nbsp; Clean up dns settings
+◻️ &nbsp; Verify custom domain for github pages<br>◻️ &nbsp; Follow up with ikea for refund<br>◻️ &nbsp; Buy colgate<br>◻️ &nbsp; Update about me page<br>◻️ &nbsp; Clean up dns settings<br>◻️ &nbsp; Update linkedin
 <!-- todos ends -->
 
 ## Last 20 completed todos

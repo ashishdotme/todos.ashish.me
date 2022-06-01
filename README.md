@@ -19,7 +19,7 @@
 <!-- week starts --><b>Current Week</b> - 0 
  <b>Previous Week</b> - 0<!-- week ends --><br>
 <!-- month starts --><b>Current Month</b> - 0 
- <b>Previous Month</b> - 10<!-- month ends --><br>
+ <b>Previous Month</b> - 0<!-- month ends --><br>
 <!-- year starts --><b>Current Year</b> - 43 
  <b>Previous Year</b> - 138<!-- year ends --><br>
 

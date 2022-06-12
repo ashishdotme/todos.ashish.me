@@ -16,11 +16,11 @@
 
 ## Tasks Completed
 
-<!-- week starts --><b>Current Week</b> - 3 
+<!-- week starts --><b>Current Week</b> - 4 
  <b>Previous Week</b> - 0<!-- week ends --><br>
-<!-- month starts --><b>Current Month</b> - 3 
+<!-- month starts --><b>Current Month</b> - 4 
  <b>Previous Month</b> - 0<!-- month ends --><br>
-<!-- year starts --><b>Current Year</b> - 46 
+<!-- year starts --><b>Current Year</b> - 47 
  <b>Previous Year</b> - 138<!-- year ends --><br>
 
 ## Todos
@@ -32,5 +32,5 @@
 ## Last 20 completed todos
 
 <!-- completed starts -->
-✅ &nbsp; Change users in telegram roommate bot - **_Jun 13 2022_**<br>✅ &nbsp; Setup scp repo - **_Jun 12 2022_**<br>✅ &nbsp; Add task category classifier - **_Jun 12 2022_**<br>✅ &nbsp; Deploy ml api - **_Apr 12 2022_**<br>✅ &nbsp; Add ml api for finding task category - **_Apr 12 2022_**<br>✅ &nbsp; Order a coffee mug - **_Apr 11 2022_**<br>✅ &nbsp; Submit thesis proposal - **_Apr 11 2022_**<br>✅ &nbsp; Add names to table and figures in thesis - **_Apr 11 2022_**<br>✅ &nbsp; Complete introduction and literature review - **_Apr 06 2022_**<br>✅ &nbsp; Pay bills - **_Apr 03 2022_**<br>✅ &nbsp; Complete cloud machine learning assignment - **_Apr 01 2022_**<br>✅ &nbsp; Get noc letter for visa - **_Apr 01 2022_**<br>✅ &nbsp; Change address in revolut - **_Apr 01 2022_**<br>✅ &nbsp; Clean up dns settings - **_Mar 18 2022_**<br>✅ &nbsp; Update linkedin - **_Mar 18 2022_**<br>✅ &nbsp; Work on research - **_Mar 18 2022_**<br>✅ &nbsp; Scrap streaks data - **_Mar 18 2022_**<br>✅ &nbsp; Print resumes - **_Feb 09 2022_**<br>✅ &nbsp; Renew google one subscription - **_Feb 01 2022_**<br>✅ &nbsp; Buy colgate - **_Jan 31 2022_**
+✅ &nbsp; Change users in telegram roommate bot - **_Jun 13 2022_**<br>✅ &nbsp; Setup personal crm - **_Jun 13 2022_**<br>✅ &nbsp; Setup scp repo - **_Jun 12 2022_**<br>✅ &nbsp; Add task category classifier - **_Jun 12 2022_**<br>✅ &nbsp; Deploy ml api - **_Apr 12 2022_**<br>✅ &nbsp; Add ml api for finding task category - **_Apr 12 2022_**<br>✅ &nbsp; Order a coffee mug - **_Apr 11 2022_**<br>✅ &nbsp; Submit thesis proposal - **_Apr 11 2022_**<br>✅ &nbsp; Add names to table and figures in thesis - **_Apr 11 2022_**<br>✅ &nbsp; Complete introduction and literature review - **_Apr 06 2022_**<br>✅ &nbsp; Pay bills - **_Apr 03 2022_**<br>✅ &nbsp; Complete cloud machine learning assignment - **_Apr 01 2022_**<br>✅ &nbsp; Get noc letter for visa - **_Apr 01 2022_**<br>✅ &nbsp; Change address in revolut - **_Apr 01 2022_**<br>✅ &nbsp; Clean up dns settings - **_Mar 18 2022_**<br>✅ &nbsp; Update linkedin - **_Mar 18 2022_**<br>✅ &nbsp; Work on research - **_Mar 18 2022_**<br>✅ &nbsp; Scrap streaks data - **_Mar 18 2022_**<br>✅ &nbsp; Print resumes - **_Feb 09 2022_**<br>✅ &nbsp; Renew google one subscription - **_Feb 01 2022_**
 <!-- completed ends -->

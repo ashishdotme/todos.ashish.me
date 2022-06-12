@@ -26,7 +26,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️ &nbsp; Verify custom domain for github pages<br>◻️ &nbsp; Follow up with ikea for refund<br>◻️ &nbsp; Update about me page<br>◻️ &nbsp; Update sync todoist script<br>◻️ &nbsp; Add chores in grocy<br>◻️ &nbsp; Fix wrong previous week stat
+◻️ &nbsp; Verify custom domain for github pages<br>◻️ &nbsp; Follow up with ikea for refund<br>◻️ &nbsp; Update about me page<br>◻️ &nbsp; Update sync todoist script<br>◻️ &nbsp; Add chores in grocy<br>◻️ &nbsp; Fix wrong previous week stat<br>◻️ &nbsp; Submit the visa application
 <!-- todos ends -->
 
 ## Last 20 completed todos

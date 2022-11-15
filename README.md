@@ -26,7 +26,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️ &nbsp; Verify custom domain for github pages<br>◻️ &nbsp; Update about me page<br>◻️ &nbsp; Update sync todoist script<br>◻️ &nbsp; Fix wrong previous week stat<br>◻️ &nbsp; Complete worker api<br>◻️ &nbsp; Get tesco clubcard<br>◻️ &nbsp; Buy toothpaste and soap
+◻️ &nbsp; Verify custom domain for github pages<br>◻️ &nbsp; Update about me page<br>◻️ &nbsp; Update sync todoist script<br>◻️ &nbsp; Fix wrong previous week stat<br>◻️ &nbsp; Complete worker api<br>◻️ &nbsp; Get tesco clubcard<br>◻️ &nbsp; Buy toothpaste and soap<br>◻️ &nbsp; Leave fiverr review
 <!-- todos ends -->
 
 ## Last 20 completed todos

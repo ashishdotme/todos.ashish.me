@@ -26,7 +26,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️ &nbsp; Verify custom domain for github pages<br>◻️ &nbsp; Update about me page<br>◻️ &nbsp; Update sync todoist script<br>◻️ &nbsp; Fix wrong previous week stat<br>◻️ &nbsp; Complete worker api<br>◻️ &nbsp; Get tesco clubcard<br>◻️ &nbsp; Buy toothpaste and soap<br>◻️ &nbsp; Read easy meal prep: the ultimate playbook for make-ahead meals<br>◻️ &nbsp; Sync grocy data<br>◻️ &nbsp; Update name in roommate bot<br>◻️ &nbsp; Complete api update<br>◻️ &nbsp; Clear emails<br>◻️ &nbsp; Buy face tissue<br>◻️ &nbsp; Find deepfake project
+◻️ &nbsp; Verify custom domain for github pages<br>◻️ &nbsp; Update about me page<br>◻️ &nbsp; Update sync todoist script<br>◻️ &nbsp; Fix wrong previous week stat<br>◻️ &nbsp; Complete worker api<br>◻️ &nbsp; Get tesco clubcard<br>◻️ &nbsp; Buy toothpaste and soap<br>◻️ &nbsp; Read easy meal prep: the ultimate playbook for make-ahead meals<br>◻️ &nbsp; Sync grocy data<br>◻️ &nbsp; Update name in roommate bot<br>◻️ &nbsp; Complete api update<br>◻️ &nbsp; Clear emails<br>◻️ &nbsp; Buy face tissue<br>◻️ &nbsp; Find deepfake project<br>◻️ &nbsp; Send irp card<br>◻️ &nbsp; Fix deploy pipeline
 <!-- todos ends -->
 
 ## Last 20 completed todos

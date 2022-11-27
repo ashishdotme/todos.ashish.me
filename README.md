@@ -26,7 +26,7 @@
 ## Todos
 
 <!-- todos starts -->
-◻️ &nbsp; Verify custom domain for github pages<br>◻️ &nbsp; Update about me page<br>◻️ &nbsp; Update sync todoist script<br>◻️ &nbsp; Fix wrong previous week stat<br>◻️ &nbsp; Complete worker api<br>◻️ &nbsp; Sync grocy data<br>◻️ &nbsp; Find deepfake project<br>◻️ &nbsp; Schedule meeting with cultfit<br>◻️ &nbsp; Return under armour pant<br>◻️ &nbsp; Alter hiking pant
+◻️ &nbsp; Verify custom domain for github pages<br>◻️ &nbsp; Update about me page<br>◻️ &nbsp; Update sync todoist script<br>◻️ &nbsp; Fix wrong previous week stat<br>◻️ &nbsp; Complete worker api<br>◻️ &nbsp; Sync grocy data<br>◻️ &nbsp; Find deepfake project<br>◻️ &nbsp; Schedule meeting with cultfit<br>◻️ &nbsp; Return under armour pant<br>◻️ &nbsp; Alter hiking pant<br>◻️ &nbsp; Buy games from steam
 <!-- todos ends -->
 
 ## Last 20 completed todos

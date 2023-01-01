@@ -19,9 +19,9 @@
 <!-- week starts --><b>Current Week</b> - 0 
  <b>Previous Week</b> - 0<!-- week ends --><br>
 <!-- month starts --><b>Current Month</b> - 0 
- <b>Previous Month</b> - 13<!-- month ends --><br>
-<!-- year starts --><b>Current Year</b> - 74 
- <b>Previous Year</b> - 138<!-- year ends --><br>
+ <b>Previous Month</b> - 0<!-- month ends --><br>
+<!-- year starts --><b>Current Year</b> - 0 
+ <b>Previous Year</b> - 74<!-- year ends --><br>
 
 ## Todos
 
